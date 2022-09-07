@@ -86,13 +86,13 @@ global.xckey = 'BOhjM2hUVn'
 /*Number*/
 global.nomorbot = '6281228503965'
 global.nomorown = '66615143033'
-global.namebot = 'Nicko Botz'
+global.namebot = 'Ndra Botz'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 Nicko Botz あ⁩ 」'
+global.wm = '                「 Ndra Botz あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Nicko Botz'
+global.wm3 = '⫹⫺ Ndra Botz'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -434,9 +434,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Nicko Botz 乂 Affandra\n⫹⫺ Nicko Botz\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Ndra Botz 乂 Nicko\n⫹⫺ Nicko Botz\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = 'Nicko Botz 乂 Affandra'
+global.author = 'Ndra Botz 乂 Nicko'
 global.multiplier = 10
 
 /*Pesan*/
