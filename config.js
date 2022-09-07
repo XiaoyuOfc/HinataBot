@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['66615143033', '️One', true],
+  ['66615143033', '️Two', true],
+  ['66615143033', '️Three', true],
+  ['66615143033', '️Four', true],
+  ['66615143033', '️Five', true],
+  ['66615143033', '️Six', true],
+  ['66615143033', '️Seven', true],
+  ['66615143033', '️Eight', true],
+  ['66615143033', '️Nine', true],
+  ['66615143033', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -84,15 +84,15 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.nomorbot = '6281228503965'
+global.nomorown = '66615143033'
+global.namebot = 'Nicko Botz'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ 」'
+global.wm = '                「 Nicko Botz あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.wm3 = '⫹⫺ Nicko Botz'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -389,7 +389,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 /*Link*/
 global.sig = 'https://www.instagram.com/notifikasi_pemberitahuan'
 global.sgh = 'https://www.github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
+global.sgc = 'https://chat.whatsapp.com/DFYCMEj2JwAFw8pY55VkXv'
 global.sdc = 'https://www.discord.com/wudysoft'
 global.snh = 'https://www.tiktok.com/@upload_file'
 global.sfb = 'https://www.facebook.com/'
@@ -434,9 +434,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Nicko Botz 乂 Affandra\n⫹⫺ Nicko Botz\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁'
+global.author = 'Nicko Botz 乂 Affandra'
 global.multiplier = 10
 
 /*Pesan*/
@@ -445,7 +445,7 @@ global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
 global.webs = 'https://s.id/Cerdasin62'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
+global.gcwangsaf = 'https://chat.whatsapp.com/DFYCMEj2JwAFw8pY55VkXv'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
